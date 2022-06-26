@@ -1,4 +1,4 @@
-# cbg-corp
+# cbg-corp-ui
 
 ## Project setup
 ```

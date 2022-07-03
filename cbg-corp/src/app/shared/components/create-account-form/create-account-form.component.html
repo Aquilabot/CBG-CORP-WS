@@ -11,7 +11,7 @@
     <dxi-item dataField="password" editorType="dxTextBox"
       [editorOptions]="{ stylingMode: 'filled', placeholder: 'Contraseña', mode: 'password' }">
       <dxi-validation-rule type="required" message="Password is required"></dxi-validation-rule>
-      <dxo-label [visible]="false"></dxo-label> 
+      <dxo-label [visible]="false"></dxo-label>
     </dxi-item>
 
     <dxi-item dataField="confirmedPassword" editorType="dxTextBox"
@@ -24,8 +24,8 @@
 
     <dxi-item>
       <div class='policy-info'>
-        By creating an account, you agree to the <a routerLink="#">Terms of Service</a> and <a routerLink="#">Privacy
-          Policy</a>
+        Al crear una cuenta, usted acepta las <a routerLink="#">Condiciones de servicio</a> y <a routerLink="#">Política
+          de privacidad</a>
       </div>
     </dxi-item>
 
@@ -47,7 +47,7 @@
             <dx-load-indicator width="24px" height="24px" [visible]="true"></dx-load-indicator>
           </ng-container>
 
-          <ng-template #notLoading>Create a new account</ng-template>
+          <ng-template #notLoading>Crear una cuenta</ng-template>
         </span>
       </div>
     </ng-container>

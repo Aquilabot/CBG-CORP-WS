@@ -21,7 +21,7 @@ export class UserPanelComponent {
   @Input()
   user!: IUser | null;
 
-  constructor() {}
+  constructor() { }
 }
 
 @NgModule({
@@ -30,7 +30,7 @@ export class UserPanelComponent {
     DxContextMenuModule,
     CommonModule
   ],
-  declarations: [ UserPanelComponent ],
-  exports: [ UserPanelComponent ]
+  declarations: [UserPanelComponent],
+  exports: [UserPanelComponent]
 })
 export class UserPanelModule { }

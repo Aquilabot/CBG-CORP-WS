@@ -2923,10 +2923,10 @@ devextreme-cli@latest:
     semver "^5.6.0"
     strip-bom "^4.0.0"
 
-devextreme-quill@~1.5.16:
-  version "1.5.16"
-  resolved "https://registry.yarnpkg.com/devextreme-quill/-/devextreme-quill-1.5.16.tgz#71ffad0fa6633fa769c26c1110d1e76ba7fe679f"
-  integrity sha512-ZaYpLZRMC3NkLzbKdIaJyG6b4mTWlFjJM4V68RN43qwl/SnMnes7WC1gMwP3CBdWuh7ObsXXTh+cMMSVqUSeLA==
+devextreme-quill@~1.5.18:
+  version "1.5.18"
+  resolved "https://registry.yarnpkg.com/devextreme-quill/-/devextreme-quill-1.5.18.tgz#ff3b19f392863749afe52a147bee121d061c6521"
+  integrity sha512-qdO+8VnteqMEh/JN7q9cQogH/BZFILcPnR6FO41MiLy1fT84xEqORra7cKYQaiagf3yts934bb0ycWw8zgdFYA==
   dependencies:
     core-js "^3.19.1"
     eventemitter3 "^4.0.0"
@@ -2968,16 +2968,16 @@ devextreme-themebuilder@^21.2.4:
     sass "1.43.5"
     semver "^5.7.1"
 
-devextreme@^21.2.9:
-  version "21.2.10"
-  resolved "https://registry.yarnpkg.com/devextreme/-/devextreme-21.2.10.tgz#7be9e857da42ff0e316e7f06aa5b2d9aad1cbe49"
-  integrity sha512-5h8p+fHY3tjeTnyLXbKF48YNoRhXv9192bSpS8ub3zLUN0j9VzL03rtalYiCDHH6ohMTJ0KGlocfN4RZEsX5aA==
+devextreme@^21.2.11:
+  version "21.2.11"
+  resolved "https://registry.yarnpkg.com/devextreme/-/devextreme-21.2.11.tgz#713bc50790b85325a35036f26a098a86e94529c2"
+  integrity sha512-vQr2NiQRmy8Q0ZXHuz8JiKXBcmT42RBFbVJcGqPYRcYxF7iHiY70WDCrkHDV0f0ZwQkeapRNtNYExsD95m2O0Q==
   dependencies:
     "@babel/runtime" "^7.12.1"
     "@devextreme/runtime" "~2.3.15"
     devexpress-diagram "2.1.63"
     devexpress-gantt "4.0.27"
-    devextreme-quill "~1.5.16"
+    devextreme-quill "~1.5.18"
     devextreme-showdown "^1.0.1"
     inferno "^7.4.9"
     inferno-compat "^7.4.9"

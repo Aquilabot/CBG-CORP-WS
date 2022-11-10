@@ -2892,10 +2892,10 @@ devexpress-gantt@4.0.27:
     "@devexpress/utils" "1.3.14"
     tslib "2.3.1"
 
-devextreme-angular@^21.2.9:
-  version "21.2.10"
-  resolved "https://registry.yarnpkg.com/devextreme-angular/-/devextreme-angular-21.2.10.tgz#012f878c4b6a4ce13d2d8b3654911448f2f9b865"
-  integrity sha512-Xm6S5rYzjcldbkKp2ePZUb9rc+FDItQUJfmK5xwhe2g1qf/75r99xBU7FGoFHT3X4LqiqFD9CnHNQpWEbPGKdg==
+devextreme-angular@^21.2.11:
+  version "21.2.11"
+  resolved "https://registry.yarnpkg.com/devextreme-angular/-/devextreme-angular-21.2.11.tgz#3aaf499503b24975c08b3bea12ba446d1a5ab9d1"
+  integrity sha512-qRHTc/ysMM3CiSBTIzK/e23limlsKLEQzVZoUmRxgJW4SYzLuwwe8mIWEq/KsXstbn6mioIxIgyVXb2XZ2rn7Q==
   dependencies:
     "@angular-devkit/schematics" "^8.0.0"
     devextreme-schematics latest
